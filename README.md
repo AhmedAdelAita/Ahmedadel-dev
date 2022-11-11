@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/AhmedAdlel" target="blank"><img src="https://img.shields.io/twitter/follow/AhmedAdlel?logo=twitter&style=for-the-badge" alt="AhmedAdlel" /></a> </p>
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🔭 ’m currently working as a ** Mobile Developer | at Tec Solutions**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning and Developing Mobile Application with Flutter**
 
 - 💬 Ask me about: Firebase, OOP, Java, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter,Version Control, Team Management.
 
-- 📫 How to reach me **info.ahmedadel@gmail.com**
+- 📫 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here.**
 
 - ⚡ Fun fact **I am Funny**
 
