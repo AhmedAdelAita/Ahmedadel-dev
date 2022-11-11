@@ -1,22 +1,12 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Ahmed Adel 👋</h1>
 <h3 align="center">I am a Mobile Developer at Tec Solutions, Android Developer and Flutter Developer, GDG Organizer and Instructor.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedadel&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedAdel" /> </p>
-
-<p align="left"> <a href="https://twitter.com/AhmedAdlel" target="blank"><img src="https://img.shields.io/twitter/follow/AhmedAdlel?logo=twitter&style=for-the-badge" alt="AhmedAdlel" /></a> </p>
-
-- 🔭 ’m currently working as a ** Mobile Developer | at Tec Solutions**
-
-- 🌱 I’m currently learning and Developing Mobile Application with Flutter**
-
+- 🔭 ’m currently working as a ** Mobile Developer | at Tec Solutions.
+- 🌱 I’m currently learning and Developing Mobile Application with Flutter.
 - 💬 Ask me about: Firebase, OOP, Java, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter,Version Control, Team Management.
-
-- 📫 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here.**
-
-- ⚡ Fun fact **I am Funny**
+- 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here.
+- ⚡Fun fact: i Love 😺 🌍 ❄️ 🍎 🍔 🍤 ⚽️ 🎧 🎬  ✈️ 💻 📱 📸
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
