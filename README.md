@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , Flutter**
+- 💬 Ask me about: Firebase, OOP, Java, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter,Version Control, Team Management.
 
 - 📫 How to reach me **info.ahmedadel@gmail.com**
 
