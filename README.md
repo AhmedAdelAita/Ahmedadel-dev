@@ -17,11 +17,11 @@
 
   - Learning programming and getting knowledge about AI & ML.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=melbanna40&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Ahmedadel-dev&show_icons=true)
   
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melbanna40)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedadel-dev)
   
-![Total Contribution](https://github-readme-streak-stats.herokuapp.com/?user=melbanna40)
+![Total Contribution](https://github-readme-streak-stats.herokuapp.com/?user=Ahmedadel-dev)
 
 #### Programming language i am using :
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
