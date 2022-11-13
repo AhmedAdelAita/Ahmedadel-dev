@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Ahmed Adel 👋</h1>
 <h3 align=>I am a Mobile Developer at Tec Solutions, Android Developer and Flutter Developer, GDG Organizer and Instructor.</h3>
 
-- 🔭 ’m currently working as a ** Mobile Developer | at Tec Solutions.
+- 🔭 I’m currently working as a Mobile Developer | at Tec Solutions.
 - 🌱 I’m currently learning and Developing Mobile Application with Flutter.
 - 💬 Ask me about: Firebase, OOP, Java, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter,Version Control, Team Management.
 - 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here.
@@ -15,7 +15,7 @@
 
   - Watching Youtube, Reading Books, Action, Comics,Historical Fiction, Romance, History books.
 
-  - Learning programming and getting knowledge about AI & ML.
+  - Learning programming and getting knowledge about AR & VR.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Ahmedadel-dev&show_icons=true)
   
@@ -73,6 +73,5 @@
     <a href="https://www.linkedin.com/in/melbanna40/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.instagram.com/ahmedadlel/?hl=en" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.facebook.com/100003235884831" alt="Facebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    <a href="https://github.com/Ahmedadel-dev" alt="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p> 
 </p>
