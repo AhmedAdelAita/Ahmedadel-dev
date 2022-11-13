@@ -13,8 +13,6 @@
 
   - While Coding, Listening Music and developing useful code. ⭐️
 
-  - Watching Youtube, Reading Books, Action, Comics,Historical Fiction, Romance, History books.
-
   - Learning programming and getting knowledge about AR & VR.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Ahmedadel-dev&show_icons=true)
