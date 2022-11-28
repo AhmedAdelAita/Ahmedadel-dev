@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as a Mobile Developer | at Tec Solutions.
 - 🌱 I’m currently learning and Developing Mobile Application with Flutter.
 - 💬 Ask me about: Firebase, OOP, Java, XML, Android, Web, Mobile, RESTful APIs, Database, UI, UX, Cloud, Flutter,Version Control, Team Management.
-- 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here.
+- 📫 How to reach me: catch, and follow me from the footer links below 👇 in addition to follow me here...
 - ⚡Fun fact: i Love 😺 🌍 ❄️ 🍎 🍔 🍤 ⚽️ 🎧 🎬  ✈️ 💻 📱 📸
 <details>
   <summary>Some interesting facts about me!</summary>
